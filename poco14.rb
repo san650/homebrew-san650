@@ -1,3 +1,5 @@
+# This file was copied verbatim from https://github.com/Homebrew/homebrew/blob/a3ef913578d6c9fb614d1f32cc2d0f73f9c7563f/Library/Formula/poco.rb
+
 require "formula"
 
 class Poco14 < Formula
